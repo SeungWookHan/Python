@@ -1,0 +1,3 @@
+INFO:root:[2020-10-26 22:11] 실행결과 args - ('John', 25), kwargs - {}
+INFO:root:[2020-10-26 22:17] 실행결과 args - ('John', 25), kwargs - {}
+INFO:root:[2020-10-26 22:18] 실행결과 args - ('우기', 25), kwargs - {}

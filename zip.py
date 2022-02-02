@@ -5,3 +5,11 @@ print(lst[1:]) # [2, 3, 4]
 print(lst[:-1]) # [1, 2, 3]
 
 print(list(zip(lst[:-1], lst[1:]))) # [(1, 2), (2, 3), (3, 4)]
+
+for a, b in zip(lst[:-1], lst[1:]):
+  print(a, b)
+  """
+  1 2
+  2 3
+  3 4
+  """
